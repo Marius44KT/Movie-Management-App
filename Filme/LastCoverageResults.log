@@ -1,0 +1,18 @@
+[2022-05-06 00:09:57] [info] Start Program:
+Path:"C:\Users\Marius Andreiasi\Desktop\Semestrul 2\Programare orientata obiect\Filme\x64\Debug\Filme.exe"
+Arguments:
+Working directory: "C:\Users\Marius Andreiasi\source\repos\Filme\Filme\"
+Modules: Selected: C:\Users\Marius Andreiasi\Desktop\Semestrul 2\Programare orientatÄƒ obiect\Filme\x64\Debug\Filme.exe Excluded: 
+Sources: Selected: C:\Users\Marius Andreiasi\Desktop\Semestrul 2\Programare orientatÄƒ obiect\Filme\Filme Excluded: UI.h UI.cpp 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Marius Andreiasi\AppData\Local\Temp\wxzyv00e.z1c 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-05-06 00:09:57] [error] Error: Cannot find path: C:\Users\Marius Andreiasi\Desktop\Semestrul 2\Programare orientata obiect\Filme\x64\Debug\Filme.exe
